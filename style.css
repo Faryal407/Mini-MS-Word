@@ -3,6 +3,7 @@ body {
   background: linear-gradient(135deg, #667eea, #764ba2);
   padding: 30px;
   color: #fff;
+  overflow: hidden;
 }
 
 /* Title */
